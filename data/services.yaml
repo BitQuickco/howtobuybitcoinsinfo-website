@@ -1,28 +1,28 @@
-+bitquick:
-+  label: BitQuick
-+  countries: [ca, us, au, be, bg, cz, dk, de, ee, ie, el, es, fr, it, cy, lv, lt, lu, hu, mt, nl, at, pl, pt, ro, si, sk, fi, se, uk]
-+  location: [us]
-+  icon: https://www.bitquick.co/favicon.ico
-+  url: https://bitquick.co/
-+  content: 
-+  	<p><a href="https://www.bitquick.co">Buy bitcoins</a> or sell bitcoins with cash or SEPA in under 10 minutes at BitQuick.co!</p> 
-+  	<p>The quickest, simplest way to trade.</p>
-+  	<p>Find us on Twitter here: <a href="https://twitter.com/bitquickco">@bitquickco</></p>
-+  
-+  coins: [btc]
-+  
-+altquick:
-+  label: AltQuick
-+  countries: [us]
-+  location: [us]
-+  icon: https://www.altquick.co/favicon.ico
-+  url: https://altquick.co/
-+  content: 
-+  	<p>Buy over 30 altcoins with cash in under 10 minutes at BitQuick.co!</p> 
-+  	<p>The quickest, simplest way to trade.</p>
-+  	<p><a href="https://www.altquick.co">Buy Dogecoin</a>, Litecoin, Namecoin, Peercoin, and more!</p>
-+  
-+  coins: [blk,bitusd,bts,btcd,clam,xcp,dash,dgb,doge,ftc,gemz,ltc,msc,mint,maid,xmr,nmc,nbt,nxt,nvc,pot,ppc,qrk,rdd,xrp,sdc,start,sjcx,swarm,usdt,uno,vrc,vtc,mona,ifc,str,flo,ioc,neos,ixc,opal,tron]
+bitquick:
+  label: BitQuick
+  countries: [ca, us, au, be, bg, cz, dk, de, ee, ie, el, es, fr, it, cy, lv, lt, lu, hu, mt, nl, at, pl, pt, ro, si, sk, fi, se, uk]
+  location: [us]
+  icon: https://www.bitquick.co/favicon.ico
+  url: https://bitquick.co/
+  content: 
+  	<p><a href="https://www.bitquick.co">Buy bitcoins</a> or sell bitcoins with cash or SEPA in under 10 minutes at BitQuick.co!</p> 
+  	<p>The quickest, simplest way to trade.</p>
+  	<p>Find us on Twitter here: <a href="https://twitter.com/bitquickco">@bitquickco</></p>
+  
+  coins: [btc]
+  
+altquick:
+  label: AltQuick
+  countries: [us]
+  location: [us]
+  icon: https://www.altquick.co/favicon.ico
+  url: https://altquick.co/
+  content: 
+  	<p>Buy over 30 altcoins with cash in under 10 minutes at BitQuick.co!</p> 
+  	<p>The quickest, simplest way to trade.</p>
+  	<p><a href="https://www.altquick.co">Buy Dogecoin</a>, Litecoin, Namecoin, Peercoin, and more!</p>
+  
+  coins: [blk,bitusd,bts,btcd,clam,xcp,dash,dgb,doge,ftc,gemz,ltc,msc,mint,maid,xmr,nmc,nbt,nxt,nvc,pot,ppc,qrk,rdd,xrp,sdc,start,sjcx,swarm,usdt,uno,vrc,vtc,mona,ifc,str,flo,ioc,neos,ixc,opal,tron]
 
 
 Coinfinity:
